@@ -1,0 +1,7 @@
+C:\Users\djoni\source\repos\Dz_5_AdoNet\Dz_5_AdoNet\bin\Debug\Dz_5_AdoNet.exe.config
+C:\Users\djoni\source\repos\Dz_5_AdoNet\Dz_5_AdoNet\bin\Debug\Dz_5_AdoNet.exe
+C:\Users\djoni\source\repos\Dz_5_AdoNet\Dz_5_AdoNet\bin\Debug\Dz_5_AdoNet.pdb
+C:\Users\djoni\source\repos\Dz_5_AdoNet\Dz_5_AdoNet\obj\Debug\Dz_5_AdoNet.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\Dz_5_AdoNet\Dz_5_AdoNet\obj\Debug\Dz_5_AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\Dz_5_AdoNet\Dz_5_AdoNet\obj\Debug\Dz_5_AdoNet.exe
+C:\Users\djoni\source\repos\Dz_5_AdoNet\Dz_5_AdoNet\obj\Debug\Dz_5_AdoNet.pdb
